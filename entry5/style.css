@@ -1,0 +1,116 @@
+@import url("https://use.typekit.net/wds1kwx.css");
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&family=Moirai+One&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&family=Major+Mono+Display&family=Moirai+One&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+h1 {
+    font-family: "Moirai One",sans-serif;
+    color: rgb(15, 177, 15);
+    margin: auto;
+}
+h4 {font-family:"Major Mono Display",monospace;}
+
+img {width: 360px;
+    height: 360px;
+}
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+div {
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right:50px;
+}
+#parent1,#parent2,#parent3,#parent4,#parent5,#parent6 {
+    display: flex;
+    justify-content:space-between;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-right:130px;
+}
+#center {
+    font-family: "Moirai One",sans-serif;
+    color: rgb(15, 177, 15);
+    text-align: center;
+    font-size:60px;
+    padding: 130px;
+}
+h4 {
+    font-family:"Major Mono Display",monospace;
+     top: 20px;
+     right:20px;
+     
+}
+img {width: 360px;
+    height: 360px;
+}
+#square {
+    font-size: 14px;
+    font-family:"Moirai One",sans-serif;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#squaretext {
+ font-family: "Major Mono Display",monospace;
+ font-size: 15px;
+ margin:auto;
+ text-align: center;
+ padding-left: -60%;
+}
+
+.topbuttom {
+    font-size: 20px;
+    font-family: "Major Mono Display",monospace;
+    width: 150px;
+    background: lightgrey;
+    padding: 100px;
+    text-align: center;
+    display:inline-block;
+   
+}
+
+#top{
+    color:white;
+}
+
+.block {
+  font-family: monospace;
+  display: block;
+  width: 20%;
+  border: none;
+  background-color: lightgrey;
+  padding: 30px 28px;
+  font-size: 16px;
+  text-align: center;
+  margin:auto;
+}
+
+#bar {
+    font-family:"Major Mono Display",monospace;
+    top: 10px;
+    right:10px;
+    background-color:pink;
+    width:90%;
+    padding:30px;
+    margin:auto;
+    left:10px;
+    text-align:auto;
+    color:black;
+    position:fixed;
+    justify-content: space-between;
+    align-items: flex-end;
+}
