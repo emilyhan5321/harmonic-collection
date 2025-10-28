@@ -30,7 +30,7 @@ div {
     margin-left: 50px;
     margin-right:50px;
 }
-#parent1,#parent2,#parent3,#parent4,#parent5,#parent6 {
+#parent1,#parent2,#parent3,#parent4,#parent5,#parent6,#parent7 {
     display: flex;
     justify-content:space-between;
     margin-top: 50px;
@@ -67,9 +67,9 @@ img {width: 360px;
 #squaretext {
  font-family: "Major Mono Display",monospace;
  font-size: 15px;
- margin:auto;
  text-align: center;
  padding-left: -60%;
+width: 360px;
 }
 
 .topbuttom {
@@ -80,7 +80,6 @@ img {width: 360px;
     padding: 100px;
     text-align: center;
     display:inline-block;
-   
 }
 
 #top{

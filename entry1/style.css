@@ -29,6 +29,7 @@ div {
     margin-top: 50px;
     margin-left: 50px;
     margin-right:50px;
+
 }
 #parent1,#parent2,#parent3,#parent4,#parent5,#parent6 {
     display: flex;
@@ -66,11 +67,10 @@ img {width: 360px;
 
 #squaretext {
  font-family: "Major Mono Display",monospace;
- font-size: 15.2px;
- margin:auto;
+ font-size: 15px;
  text-align: center;
  padding-left: -60%;
- min-block-size: 360px 360px;
+ width: 360px;
 }
 
 .topbuttom {

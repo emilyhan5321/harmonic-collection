@@ -67,7 +67,7 @@ img {width: 360px;
 #squaretext {
  font-family: "Major Mono Display",monospace;
  font-size: 15px;
- margin:auto;
+ width: 360px;
  text-align: center;
  padding-left: -60%;
 }
