@@ -20,12 +20,23 @@
     left:10px;
     text-align:auto;
     position:fixed;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: flex-end;
 }
 
 #heading {
     margin:auto;
     font-family: "Major Mono Display", sans-serif;
+    position:relative;
+    text-align:center;
 
+}
+#animation {
+
+}
+
+#entry1 {
+    text-align: center;
+    size: 48px;
+    margin: 10%;
 }
