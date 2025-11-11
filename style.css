@@ -40,3 +40,10 @@
     size: 48px;
     margin: 10%;
 }
+
+@media (max-width: 850px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
