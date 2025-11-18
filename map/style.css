@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&family=Moirai+One&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&family=Major+Mono+Display&family=Moirai+One&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+body {
+        background-color: pink; /* You can use color names, hex codes, or RGB/HSL values */
+    }
+
 * {
     box-sizing: border-box;
     margin:0;
     padding:0;
 }
-h1 {
-    font-family: "Moirai One",sans-serif;
-    color: rgb(15, 177, 15);
-    margin: auto;
-}
+
 h4 {font-family:"Major Mono Display",monospace;}
 
 img {width: 360px;
@@ -39,10 +39,11 @@ div {
 }
 #center {
     font-family: "Moirai One",sans-serif;
-    color: rgb(15, 177, 15);
+    color: black;
     text-align: center;
     font-size:60px;
     padding: 130px;
+    margin-top: 200px;
 }
 h4 {
     font-family:"Major Mono Display",monospace;
@@ -76,7 +77,7 @@ img {width: 360px;
     font-size: 20px;
     font-family: "Major Mono Display",monospace;
     width: 150px;
-    background: lightgrey;
+    background: lightblue;
     padding: 100px;
     text-align: center;
     display:inline-block;
