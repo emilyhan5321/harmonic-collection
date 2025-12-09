@@ -51,7 +51,7 @@ img {width: 360px;
     font-family:"Moirai One",sans-serif;
 }
 
-#parent1, #parent2, #parent3, #parent4, #parent5 {
+#parent1, #parent2, #parent3, #parent4, #parent5, #parent6, #parent7 {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -125,7 +125,6 @@ img {width: 360px;
   background-color: skyblue;
 
 }
-
 #center {
     font-family: "Darumadrop One", sans-serif;
     color: rgb(15, 177, 15);
