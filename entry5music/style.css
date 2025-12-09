@@ -18,7 +18,7 @@
 }
 div {
     display: flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content:center;
     margin-top: 50px;
     margin-left: 50px;
@@ -54,7 +54,7 @@ img {width: 360px;
 #parent1, #parent2, #parent3, #parent4, #parent5, #parent6, #parent7 {
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
 
 }
