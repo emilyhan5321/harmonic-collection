@@ -26,11 +26,12 @@ div {
 }
 #center {
     font-family: "Kirang Haerang", fantasy;
-    color: rgb(166, 249, 255), 0.795);
+    color: rgb(166, 249, 255), 0.795;
     text-align: center;
     font-size:60px;
     padding: 130px;
 }
+
 #bar {
     font-family:"Major Mono Display",monospace;
     top: 10px;
@@ -82,13 +83,12 @@ img {width: 360px;
 
 .topbuttom {
     font-size: 20px;
-    font-family: "Major Mono Display",monospace;
+    font-family: "Moirai One",monospace;
     width: 150px;
     background: lightgrey;
     padding: 100px;
     text-align: center;
     display:inline-block;
-   
 }
 
 #top{
@@ -203,3 +203,10 @@ img {width: 360px;
 #span {
     background-color:pink
 }
+
+#buttontext{
+  font-family: "Major Mono Display",monospace;
+}
+
+
+

@@ -195,3 +195,9 @@ img {width: 600px;
     0% { left: -300px; }
     100% { left: 120%; }
 }
+
+
+#buttontext{
+  font-family: "Major Mono Display",monospace;
+}
+

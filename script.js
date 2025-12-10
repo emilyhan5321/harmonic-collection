@@ -2,9 +2,7 @@
 
 document.querySelector(".main-content");
 
-let changeColor = () => {
 
-}
 
 
 document.addEventListener("click", function(e) {

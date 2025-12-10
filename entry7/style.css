@@ -193,3 +193,10 @@ body {
   margin: 0;
   background: linear-gradient(to bottom, pink 50%, skyblue 50%);
 }
+
+
+
+#buttontext{
+  font-family: "Major Mono Display",monospace;
+}
+

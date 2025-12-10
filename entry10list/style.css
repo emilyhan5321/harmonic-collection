@@ -121,14 +121,14 @@ img {width: 360px;
 }
 
 .trip {
-    font-family: "Major Mono Display", monospace;
-    font-size: 18px;
+    font-family: "Just Me Again Down Here", cursive;
+    font-size: 45px;
     line-height: 1.4;
 }
 
 
 body {
-    background-color: lightgray;
+    background-color: skyblue;
 }
 
 #center {
@@ -141,3 +141,9 @@ body {
     margin-bottom: 150px;
     
 }
+
+
+#buttontext{
+  font-family: "Major Mono Display",monospace;
+}
+
